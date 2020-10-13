@@ -8,9 +8,21 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/async-storage": "~1.11.0",
+    "@react-native-community/masked-view": "^0.1.10",
+    "axios": "^0.20.0",
+    "date-fns": "^2.16.1",
     "expo": "^38.0.0",
+    "expo-location": "~8.2.1",
+    "expo-permissions": "~9.0.1",
     "react": "16.11.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz"
+    "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz",
+    "react-native-gesture-handler": "~1.6.0",
+    "react-native-reanimated": "~1.09.0",
+    "react-native-safe-area-context": "~3.0.7",
+    "react-native-screens": "~2.9.0",
+    "react-navigation": "^4.4.2",
+    "react-navigation-stack": "^2.8.4"
   },
   "devDependencies": {
     "babel-preset-expo": "^8.2.3",

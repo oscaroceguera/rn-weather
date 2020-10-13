@@ -8,7 +8,8 @@ const styles = StyleSheet.create({
   h1: {
     textAlign: "center",
     fontSize: 40,
-    fontWeight: "700"
+    fontWeight: "700",
+    marginTop: 20,
   },
   h2: {
     fontSize: 20
