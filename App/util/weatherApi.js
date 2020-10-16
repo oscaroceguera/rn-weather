@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const apiKey = '5ade22753b71b2a50adad99fb21837f8'
+const apiKey = 'xxx'
 
 export const weatherApi = async (path, { zipcode, coords }) => {
   let suffix = ''
